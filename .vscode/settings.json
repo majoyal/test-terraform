@@ -1,0 +1,7 @@
+{
+  "[terraform]": {
+    "editor.formatOnSave": true
+},
+"editor.tabSize": 2,
+"files.trimFinalNewlines": true,
+}
